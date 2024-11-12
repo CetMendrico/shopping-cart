@@ -23,6 +23,4 @@ A web-based shopping cart interface that allows users to add items, view their c
 - `react`
 - `react-dom`
 - `react-router-dom`
-- `react-bootstrap`
-- `bootstrap`
 - `usehooks-ts` for state management
